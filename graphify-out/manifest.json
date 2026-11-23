@@ -1,0 +1,32 @@
+{
+  "netlify/functions/_db.mjs": {
+    "mtime": 1795433157.7289672,
+    "seen": 1795433207.8546662,
+    "ast_hash": "60c5f44130a1cdef8ed199227b3368af",
+    "semantic_hash": ""
+  },
+  "netlify/functions/offices.mjs": {
+    "mtime": 1795433157.728997,
+    "seen": 1795433207.8547068,
+    "ast_hash": "6b005f54fad6a2319875130ef759fc7d",
+    "semantic_hash": ""
+  },
+  "netlify/functions/proposals.mjs": {
+    "mtime": 1795433157.728997,
+    "seen": 1795433207.8547113,
+    "ast_hash": "7b156875904db1e714c84ab0fafbbe8c",
+    "semantic_hash": ""
+  },
+  "package.json": {
+    "mtime": 1795433157.728997,
+    "seen": 1795433207.8547132,
+    "ast_hash": "fc2b2d452051da06ec5949a2da62be2b",
+    "semantic_hash": ""
+  },
+  "public/index.html": {
+    "mtime": 1795433157.728997,
+    "seen": 1795433207.8547149,
+    "ast_hash": "779745d5c687726020a6c908fa3be4d5",
+    "semantic_hash": ""
+  }
+}
